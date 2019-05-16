@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/calebscoville/node-3-afternoon/issues"
   },
-  "homepage": "https://github.com/calebscoville/node-3-afternoon#readme"
+  "homepage": "https://github.com/calebscoville/node-3-afternoon#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "massive": "^5.9.0"
+  }
 }
